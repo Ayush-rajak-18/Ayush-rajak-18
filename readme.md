@@ -47,15 +47,8 @@
 
 ### 2. Travel App
 - MERN Stack travel booking application.
-- [View Project](https://github.com/Ayush-rajak-18/travel-frontend-app)
+- [View Project](https://connecttrip.in/)
 
-### 3. LeetCode Solutions
-- Solved coding problems in **C++ & JavaScript**.
-- [View Repository](https://github.com/Ayush-rajak-18/LeetCode-Solutions)
-
-### 4. Portfolio
-- Personal website showcasing projects and achievements.
-- [Visit Portfolio](https://ayush-rajak-01.vercel.app/)
 
 ---
 
@@ -64,10 +57,3 @@
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-rajak-18&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-rajak-18&layout=compact&theme=dark)
 
----
-
-## 💡 Fun Facts
-
-🌱 I’m currently learning MERN Stack  
-💻 I solve 1–2 LeetCode problems daily  
-⚡ Always exploring new tech
