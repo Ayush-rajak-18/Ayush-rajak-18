@@ -1,15 +1,18 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=28&duration=3000&pause=500&color=0078D7&center=true&width=600&lines=Hi,+I’m+Ayush+Rajak;I+am+a+MERN+Stack+Developer;Learning+and+Growing+Every+Day" alt="Typing Animation" />
-
----
 
 ## 🧠 My Coding Achievements
 
-### LeetCode
+### LeetCode Batch
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Batch" width="120"/>  
+
+### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush_rajak_208?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/Ayush_rajak_208/)
 
+<div style="border:3px solid #0078D7; border-radius:15px; padding:20px;">
+  
 ### GeeksforGeeks (GFG)
-[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Ayushrajak5-green?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ayushrajak5/)
+<a href="https://www.geeksforgeeks.org/user/ayushrajak5/">
+  <img src="https://gfgstatscard.vercel.app/ayushrajak5" alt="GFG Stats" />
+</a>
 
 ---
 
@@ -38,17 +41,12 @@
 
 ---
 
-## 📂 My Projects
+### 📂 My Projects
 
-### 1. LMS Project
-- Learning Management System built with **Next.js, Node.js, MongoDB, Tailwind CSS**.
-- Features: Course management, student enrollment, admin dashboard, responsive design.
-- [View Live](https://frontend-lms-jvka.vercel.app/about)
-
-### 2. Travel App
-- MERN Stack travel booking application.
-- [View Project](https://connecttrip.in/)
-
+| Project | Tech Stack | Features | Link |
+|---------|------------|----------|------|
+| **LMS Project** | Next.js, Node.js, MongoDB, Tailwind CSS | Course management, student enrollment, admin dashboard, tech blogs, responsive design | [![View Live](https://img.shields.io/badge/View_Live-🔗-blue?style=for-the-badge)](https://frontend-lms-jvka.vercel.app/about) |
+| **Travel App** | MERN Stack | Travel booking application, responsive UI, dynamic search | [![View Project](https://img.shields.io/badge/View_Project-🔗-green?style=for-the-badge)](https://connecttrip.in/) |
 
 ---
 
@@ -56,4 +54,6 @@
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-rajak-18&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-rajak-18&layout=compact&theme=dark)
+
+
 
