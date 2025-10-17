@@ -2,7 +2,7 @@
 ## 🧠 My Coding Achievements
 
 ### LeetCode Batch
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Batch" width="300"/>  
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode Batch" width="220"/>  
 
 ### LeetCode
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ayush_rajak_208?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/Ayush_rajak_208/)
